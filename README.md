@@ -12,3 +12,5 @@ This repository contains my assignments
 [graded assignment 2](https://github.com/FlorisvdHeijden/Assignments/blob/master/Graded_assignment_2.ipynb)
 
 [python exam](https://github.com/FlorisvdHeijden/Assignments/blob/master/exam_june_7_2018%20(1).ipynb)
+
+[R exam](https://github.com/FlorisvdHeijden/Assignments/blob/master/Exam_student.ipynb)
